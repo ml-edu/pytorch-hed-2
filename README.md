@@ -1,3 +1,5 @@
+Copy from https://github.com/Davidelanz/pytorch-hed
+
 # Pytorch Holistically-Nested Edge Detection (HED)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/davidelanz/pytorch-hed/badge)](https://www.codefactor.io/repository/github/davidelanz/pytorch-hed)
